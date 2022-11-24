@@ -135,6 +135,7 @@ export default function DetailBody() {
             ""
           )}
           {/* Card end */}
+          {/* place holder done */}
         </Grid>
       </Grid>
     </Grid>
